@@ -1,0 +1,38 @@
+body
+{
+    background-color: gainsboro;
+}
+main
+{
+    background-color: gray;
+}
+a
+{
+    color: crimson;
+    text-decoration: none;
+}
+textarea
+{
+    background-color:  gainsboro;
+}
+#firstname
+{
+    width: 70%;
+    border: solid 1px crimson;
+    padding: 5px;
+}
+#email
+{
+    width: 70%;
+    border: solid 1px crimson;
+    padding: 5px;
+}
+button
+{
+    width: 70%;
+    background-color: crimson;
+}
+.logo
+{
+    color: darkblue;
+}
